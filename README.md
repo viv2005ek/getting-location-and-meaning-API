@@ -21,6 +21,7 @@ This project is a simple web application that demonstrates the usage of APIs to 
 4. The location details and word meaning will be displayed accordingly.
 
 
+
 ## API Used
 - [Geoapify API](https://www.geoapify.com/)
 - [Dictionary API](https://dictionaryapi.dev/)
